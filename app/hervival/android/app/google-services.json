@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586467644709",
+    "project_id": "authtutorial-dbec5",
+    "storage_bucket": "authtutorial-dbec5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586467644709:android:523bf4fe12f4853702b6cc",
+        "android_client_info": {
+          "package_name": "com.example.hervival"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRnmvHxxqhIhcxJLIEPPWqtps6spv-fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
